@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git_Basics
 ## Step-1 Learn To Configure
 
@@ -40,3 +41,6 @@
 #### Learn to use markdown language to write a Readme File- 
 [link](https://www.markdownguide.org/basic-syntax/#images-1)
 #### Check out task-1 and task-2 docx to see the tutorials 
+=======
+# social-calendar
+>>>>>>> c83654538c967caffca7109e500f6ce4867debae
